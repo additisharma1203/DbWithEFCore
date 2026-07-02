@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbOperationWithEf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ecd77a4005462f73e5a99fa1cef495052540623")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbOperationWithEf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbOperationWithEf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
